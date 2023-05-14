@@ -1,0 +1,33 @@
+.contentFather{
+  width: 30vw;
+  border: #000000 1.5px solid;
+  border-radius: 5%;
+  padding-top: 8%;
+  padding-bottom: 8%;
+  background-color: aliceblue;
+}
+
+.taskComponent{
+  display: flex;
+  border-top: #000000 1.5px solid;
+  border-bottom: #000000 1.5px solid;
+  padding-left:  11.5%;
+  padding-right:  11.5%;
+  padding-top: 8%;
+  padding-bottom: 8%;
+  margin-top: 10px;
+  justify-content:space-around;
+  
+}
+
+.title{
+  text-decoration:underline 3px #7d7d7d;
+  text-align: center;
+  border: #000000 2px solid;
+  border-radius: 15px;
+  padding: 5%;
+  background-color: aliceblue;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
