@@ -12,8 +12,6 @@ function Task({ task }) {
         <FontAwesomeIcon icon={faPenToSquare} />
         <FontAwesomeIcon icon={faTrash} />
         </div>
-        <div> 
-        </div>
       </label>
     </div>
   );
